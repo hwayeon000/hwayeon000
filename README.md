@@ -20,5 +20,3 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hwayeon000/hwayeon000.git)](https://hits.seeyoufarm.com) 
 	
   </div>
-
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter
