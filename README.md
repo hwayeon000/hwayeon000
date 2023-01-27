@@ -3,7 +3,7 @@
 </br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjuj%2Fyoungjuj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwayeon000%2Fyoungjuj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <h3> ✨About Me✨ </h3>
@@ -48,7 +48,7 @@ I want to be a great back-end developer <br>
 
 <div align="center">  
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwayeon&show_icons=true&theme=tokyonight)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwayeon000&show_icons=true&theme=tokyonight)
 </div>
 
 
