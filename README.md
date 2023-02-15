@@ -2,15 +2,14 @@
  
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 
-<h3> ✨About Me✨ </h3>
+<h3 align="center> ✨About Me✨ </h3>
 Hi there 👋 <br>
 I am hwayeon. <br> 
 I want to be a great back-end developer <br>
 <hr>
 </div>
 
-<h3 align="center"> 📖 Tech Stack 📖</h3>
-
+<h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
 <p align="center">
 💡used at the main
 <br>
