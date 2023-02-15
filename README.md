@@ -2,7 +2,11 @@
  
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 
-<h3 align="center> ✨About Me✨ </h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=hwayeon%20Gitgub&fontSize=90" />
+</br>
+
+<h3> ✨About Me✨ </h3>
 Hi there 👋 <br>
 I am hwayeon. <br> 
 I want to be a great back-end developer <br>
